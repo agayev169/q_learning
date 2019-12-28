@@ -1,3 +1,7 @@
 # Q Learning
 
-Examples of Reinforcement Learning models learning with the algorithm called Q Learning
+Examples of Reinforcement Learning agents learning with the algorithm called Q Learning
+
+## Agents
+
+* [Cart Pole](./cart_pole/)

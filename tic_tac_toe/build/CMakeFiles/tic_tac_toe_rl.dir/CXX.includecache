@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/game.hpp
+iostream
+-
+
+/home/agayev169/q_learning/tic_tac_toe/src/game.cpp
+game.hpp
+/home/agayev169/q_learning/tic_tac_toe/src/game.hpp
+
+/home/agayev169/q_learning/tic_tac_toe/src/main.cpp
+game.hpp
+/home/agayev169/q_learning/tic_tac_toe/src/game.hpp
+

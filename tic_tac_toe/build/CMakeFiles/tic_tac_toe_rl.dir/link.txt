@@ -1,1 +1,0 @@
-/usr/bin/c++  -g -Wall -Wextra -O3  -rdynamic CMakeFiles/tic_tac_toe_rl.dir/src/game.cpp.o CMakeFiles/tic_tac_toe_rl.dir/src/main.cpp.o  -o tic_tac_toe_rl 
